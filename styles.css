@@ -803,3 +803,26 @@ ul { list-style: none; }
   opacity: 1;
   transform: translateY(0);
 }
+/* Grüne Erfolgsmeldung nach dem Absenden */
+.form-success {
+  background: #edf7ed;
+  border: 1px solid #a8d5a8;
+  color: #2d6a2d;
+  padding: 16px 20px;
+  border-radius: 12px;
+  font-size: 16px;
+  margin-bottom: 24px;
+  line-height: 1.5;
+}
+
+/* Rote Fehlermeldung falls etwas schiefläuft */
+.form-error {
+  background: #fdf3f3;
+  border: 1px solid #f0b8b8;
+  color: #8b2020;
+  padding: 16px 20px;
+  border-radius: 12px;
+  font-size: 16px;
+  margin-bottom: 24px;
+  line-height: 1.5;
+}

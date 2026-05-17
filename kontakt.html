@@ -73,7 +73,10 @@
     <p class="eyebrow text-center">Kontaktformular</p>
     <h2 class="display text-center">Schreiben Sie mir<br>eine Nachricht.</h2>
 
-    <form class="contact-form" action="mailto:mail@malinowski-psychotherapie.de" method="post" enctype="text/plain">
+    <!-- Erfolgs- / Fehlermeldung -->
+    <div id="form-status"></div>
+
+    <form class="contact-form" action="mail.php" method="post">
       <div class="form-row">
         <div class="form-field">
           <label for="name">Name *</label>
@@ -106,7 +109,6 @@
     </form>
   </div>
 </section>
-
 <!-- ANFAHRT -->
 <section class="section">
   <div class="container">
