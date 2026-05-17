@@ -52,16 +52,7 @@ Alle Farben als CSS-Variablen — nur diese ändern für neue Farbpalette:
 | karte-selbstzahler.jpg   | Karte 3 auf Startseite              |
 | portrait.jpg             | Portrait Veronika (Über mich)       |
 
-**Hände-Sonne-Foto** (`Haende.jpg` im images/ Ordner):
-- Echtes Foto: zwei Hände die im Sonnenuntergang die Sonne umfassen
-- Soll als `hero.jpg` verwendet werden
-- Gehört der Familie Malinowski (auch Eigentümer von kamphof-krefeld.de)
 
-## Offene Aufgaben
-- [ ] Farbpalette auf wärmere Naturtöne umstellen (Jochen wählt Variante A/B/C)
-- [ ] Hände-Foto als hero.jpg und feature-1.jpg einbauen
-- [ ] Restliche Bilder durch echte Kamphof-Fotos ersetzen (Jochen lädt hoch)
-- [ ] Portrait von Veronika einbauen (Jochen lädt hoch)
 
 ## Praxis-Infos (für Textkorrekturen)
 - Name: Dipl.-Psych. Veronika Malinowski
