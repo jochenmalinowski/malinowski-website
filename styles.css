@@ -3,16 +3,16 @@
    ============================================ */
 
 :root {
-  --bg: #fbfaf7;
-  --bg-light: #f5f3ee;
+  --bg: #fdf1e0;
+  --bg-light: #f5e2c4;
   --bg-section: #ffffff;
-  --text: #1d1d1f;
-  --text-muted: #6e6e73;
-  --text-soft: #86868b;
-  --accent: #5a7560;     /* warmes Salbeigrün */
-  --accent-dark: #3e5343;
-  --border: #e4e2dd;
-  --card-bg: #ffffff;
+  --text: #2d2015;
+  --text-muted: #6b4f38;
+  --text-soft: #9e7a5e;
+  --accent: #b06d3e;
+  --accent-dark: #8a5230;
+  --border: #e8cda8;
+  --card-bg: #fff8ee;
 
   --font: -apple-system, BlinkMacSystemFont, 'Inter', 'SF Pro Display', 'Segoe UI', Roboto, sans-serif;
 
